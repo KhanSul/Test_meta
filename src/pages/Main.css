@@ -1,0 +1,551 @@
+.main .container-15 {
+  background: url('assets/images/Image16.jpeg');
+  position: absolute;
+  right: 0px;
+  bottom: 380px;
+  width: 640px;
+  height: 761px;
+}
+.main .container-16 {
+  background: url('assets/images/Image15.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 3520px;
+  right: 0px;
+  width: 640px;
+  height: 761px;
+}
+.main .container-18 {
+  background: url('assets/images/Image18.jpeg');
+  position: absolute;
+  right: 0px;
+  bottom: 2421px;
+  width: 640px;
+  height: 761px;
+}
+.main .meta-l-1 {
+  margin: 0 3.1px 10.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .e-3 {
+  margin: 10.5px 24.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .ath-1 {
+  margin: 0 12.7px 10.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .e-2 {
+  margin: 0 13.5px 10.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .r-1 {
+  margin-bottom: 10.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .group-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.main .soon-1 {
+  margin-bottom: 10.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .container-11 {
+  background: url('assets/images/Image8.png') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 32px 92.5px 0 0;
+  width: 1280px;
+  height: 960px;
+  box-sizing: border-box;
+}
+.main .container-19 {
+  background: url('assets/images/Image9.png');
+  width: 640px;
+  height: 960px;
+}
+.main .container-7 {
+  display: flex;
+  flex-direction: row;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.main .container-20 {
+  background: url('assets/images/Image6.jpeg') 50% / cover no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.main .container-21 {
+  background: url('assets/images/Image7.png') 50% / cover no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.main .container-22 {
+  background: url('assets/images/Image1.jpeg') 50% / cover no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.main .container-10 {
+  display: flex;
+  flex-direction: row;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.main .group-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.main .container {
+  background: url('assets/images/Image4.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 640px;
+  height: 640px;
+}
+.main .container-3 {
+  background: url('assets/images/Image13.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 1280px;
+  height: 640px;
+}
+.main .belts {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 60px;
+  letter-spacing: 172.2px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .container-2 {
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 40px 0 510px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.main .container-2 {
+  background: url('assets/images/Image2.png') 50% / cover no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.main .container-4 {
+  border: 1px solid #000000;
+  background: url('assets/images/Image14.jpeg') 50% / cover no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.main .container-9 {
+  display: flex;
+  flex-direction: row;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.main .container-5 {
+  background: url('assets/images/Image10.png') 50% / cover no-repeat;
+  width: 1280px;
+  height: 640px;
+}
+.main .container-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.main .container-1 {
+  border: 1px solid #000000;
+  background: url('assets/images/Image11.png') 50% / cover no-repeat;
+  width: 640px;
+  height: 1280px;
+}
+.main .container-4 {
+  display: flex;
+  flex-direction: row;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.main .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.main .group-4 {
+  position: relative;
+  margin-bottom: 40px;
+  display: flex;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.main .care {
+  margin-bottom: 67px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 60px;
+  letter-spacing: 172.2px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .as-leather-ages-it-undergoes-anatural-process-of-transformation-gaining-character-and-patina-over-time-exposure-to-elements-like-sunlight-moisture-and-dirt-can-cause-the-leather-to-lose-its-suppleness-and-develop-cracks-or-dullness-without-proper-care-this-beloved-material-can-lose-its-charm-leaving-owners-dismayed-by-its-diminished-appearance-enter-our-premium-leather-balm-meticulously-crafted-to-revive-and-protect-your-cherished-leather-possessions-infused-with-nourishing-ingredients-our-balm-restores-moisture-and-enhances-the-natural-luster-of-leather-effectively-combating-signs-of-aging-with-regular-application-our-balm-not-only-preserves-the-integrity-of-your-leather-goods-but-also-prolongs-their-lifespan-ensuring-they-continue-to-exude-timeless-elegance-for-years-to-come-treat-your-leather-right-with-our-trusted-balm-because-every-piece-deserves-to-age-gracefully {
+  margin: 0 40px 168px 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: -0.7px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.main .container-8 {
+  background: url('assets/images/Image8.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1280px;
+  height: 960px;
+}
+.main .wallets {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 60px;
+  letter-spacing: 172.2px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .container-10 {
+  background: url('assets/images/Image12.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 640px;
+  height: 960px;
+}
+.main .container-13 {
+  position: relative;
+  padding-top: 40px;
+  width: fit-content;
+  height: 960px;
+  box-sizing: border-box;
+}
+.main .container-6 {
+  background: url('assets/images/Image6.jpeg') 50% / cover no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.main .container-7 {
+  background: url('assets/images/Image3.jpeg') 50% / cover no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.main .container-9 {
+  background: url('assets/images/Image1.jpeg') 50% / cover no-repeat;
+  width: 640px;
+  height: 640px;
+}
+.main .container {
+  display: flex;
+  flex-direction: row;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.main .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 1920px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.main .group-5 {
+  position: relative;
+  margin-bottom: 40px;
+  display: flex;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.main .blog {
+  margin: 0 0 155px 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 60px;
+  letter-spacing: 172.2px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .tanning-processes-for-superior-wallet-quality {
+  margin: 0 40px 40px 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .leather-tanning-is-the-process-of-treating-animal-hides-to-produce-durable-and-flexible-leather-the-primary-purpose-of-tanning-is-to-stabilize-the-collagen-fibers-in-the-hide-making-it-resistant-to-decomposition-and-suitable-for-various-uses-there-are-several-tanning-methods-each-imparting-distinct-characteristics-to-the-leather-vegetable-tanning-is-one-of-the-oldest-and-most-traditional-methods-using-natural-tannins-derived-from-plant-sources-like-tree-bark-leaves-and-fruits-this-process-can-take-several-weeks-allowing-the-tannins-to-penetrate-deeply-into-the-hide-the-result-is-afirmer-more-rigid-leather-that-ages-beautifully-developing-arich-patina-over-time-wallets-crafted-from-vegetable-tanned-leather-are-prized-for-their-durability-and-unique-aesthetic-which-becomes-more-pronounced-with-use {
+  margin: 0 40px 40px 40px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: -0.7px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.main .container-11 {
+  background: url('assets/images/Image9.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 640px;
+  height: 1280px;
+}
+.main .container-12 {
+  background: url('assets/images/Image17.jpeg');
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 640px;
+  height: 640px;
+}
+.main .long-wallets {
+  position: relative;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 60px;
+  letter-spacing: 172.2px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .container-13 {
+  background: url('assets/images/Image5.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 331.9px;
+  bottom: 0px;
+  width: 640px;
+  height: 640px;
+}
+.main .container-14 {
+  position: relative;
+  display: flex;
+  padding: 40px 0 420px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.main .container-14 {
+  background: url('assets/images/Image.png') 50% / cover no-repeat;
+  align-self: flex-start;
+  width: 1280px;
+  height: 640px;
+}
+.main .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.main .group-6 {
+  position: relative;
+  margin-bottom: 40px;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.main .about-us {
+  margin-bottom: 195px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 60px;
+  letter-spacing: 172.2px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .welcome-to-our-leather-goods-emporium-where-craftsmanship-meets-timeless-elegance-since-2019-weve-been-dedicated-to-redefining-luxury-with-the-finest-natural-leather-each-piece-is-meticulously-handcrafted-ensuring-unmatched-quality-and-authenticity-we-believe-in-the-enduring-beauty-and-durability-of-natural-leather-thats-why-we-source-only-the-finest-hides-creating-products-that-exude-luxury-and-sophistication-our-commitment-to-sustainability-means-that-when-you-choose-our-goods-youre-not-just-investing-in-style-but-also-in-responsible-consumerism-from-classic-accessories-to-modern-statement-pieces-our-collection-offers-something-for-every-taste-join-us-in-celebrating-the-beauty-of-natural-leather-and-timeless-craftsmanship-explore-our-range-today-and-experience-luxury-redefined-welcome-to-our-leather-goods-store {
+  margin: 0 41px 184px 41px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: -0.7px;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.main .meta-l {
+  margin: 0 3.1px 10.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .e {
+  margin: 10.5px 24.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .ath {
+  margin: 0 12.7px 10.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .e-1 {
+  margin: 0 13.5px 10.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .r {
+  margin-bottom: 10.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .container-12 {
+  margin: 0 1.1px 9.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.main .soon {
+  margin-right: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Geologica';
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 12px;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.main .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.main {
+  background: #000000;
+  display: flex;
+  padding-bottom: 144px;
+  width: 1920px;
+  box-sizing: border-box;
+}
